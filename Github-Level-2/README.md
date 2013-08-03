@@ -14,9 +14,9 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 
 
 
-## Link to other people's work
-[check this out!](https://github.com/user/repo/blob/branch/other_file.md)
-…you can use a relative link:
+## Link to other people's work:
+[check this out!](https://github.com/keshavsaharia/AdvancedJavaWeek7)
 
-[click here to learn about images](IMAGES.md)
+## Make a quicklink to one of your files:
+[click here to learn about images](PostingImages.md)
 

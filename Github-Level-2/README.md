@@ -29,3 +29,12 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 ### Github's List of Octicons:
 
 https://github.com/styleguide/css/7.0
+
+
+## Using tasklists for teams
+
+- [ ] Create Ultrasonic Code
+- [ ] Create Destructobot
+- [ ] ???
+- [ ] Profit!!!
+- [x] completed

@@ -1,4 +1,4 @@
-https://f.cloud.github.com/assets/54012/36803/dc2975be-5375-11e2-946a-4b334b995e34.pngGithub Level 2
+Github Level 2
 ==============
 
 Let us make your github skills more awesomer"
@@ -11,7 +11,7 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 ## Posting Issues
 
 
-
+.octicon-issue-opened 
 
 
 ## Link to other people's work:

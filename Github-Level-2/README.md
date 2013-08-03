@@ -25,7 +25,7 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 ## Using tasklists for teams
 
 - [ ] Create Ultrasonic Code
-- [ ] Create Destructobot
+- [x] Create Destructobot
 - [ ] ???
 - [ ] Profit!!!
 - [x] completed

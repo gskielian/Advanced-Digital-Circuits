@@ -10,8 +10,11 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 
 ## Posting Issues
 
-<span class="octicon octicon-issue-opened"></span>
+###Look on the right column and select the Issues Button:
 
+![sidebar](https://docs.google.com/a/keshavsaharia.com/drawings/d/1Xd6a3kwMGC9KuFpAMvgTis_iHqFFdmFVC9w6b01GaOY/edit?usp=sharing)
+
+![sidebar](https://docs.google.com/a/keshavsaharia.com/drawings/d/1Xd6a3kwMGC9KuFpAMvgTis_iHqFFdmFVC9w6b01GaOY/edit?usp=sharing)
 
 
 ## Link to other people's work:

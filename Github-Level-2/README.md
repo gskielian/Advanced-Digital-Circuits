@@ -20,12 +20,3 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 ## Make a quicklink to one of your files:
 [click here to learn about images](PostingImages.md)
 
-
-
-## Using tasklists for teams
-
-- [ ] Create Ultrasonic Code
-- [x] Create Destructobot
-- [ ] ???
-- [ ] Profit!!!
-- [x] completed

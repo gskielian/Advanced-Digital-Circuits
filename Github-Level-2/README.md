@@ -12,7 +12,7 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 
 ###Look on the right column and select the Issues Button:
 
-![github sidebar](hhttp://i1347.photobucket.com/albums/p711/gregorykielian/GithubSidebar1_zps197c65f6.png)
+![github sidebar](http://i1347.photobucket.com/albums/p711/gregorykielian/GithubSidebar1_zps197c65f6.png)
 
 ## Link to other people's work:
 [check this out!](https://github.com/keshavsaharia/AdvancedJavaWeek7)

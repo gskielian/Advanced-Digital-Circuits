@@ -10,8 +10,8 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 
 ## Posting Issues
 
+   <span class="mega-octicon">.octicon-issue-opened </span> <span class="octicon">.octicon-issue-opened </span> 
 
-.octicon-issue-opened 
 
 
 ## Link to other people's work:

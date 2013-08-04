@@ -20,3 +20,8 @@ https://github.com/blog/1436-moving-and-renaming-files-on-github
 ## Make a quicklink to one of your files:
 [click here to learn about images](PostingImages.md)
 
+
+How to use the command line by tlevine:
+
+https://gist.github.com/tlevine/6149026
+

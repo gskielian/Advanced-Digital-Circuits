@@ -1,7 +1,11 @@
 Github Level 2
 ==============
 
-Let us make your github skills more awesomer"
+Let us make your github skills more awesomer
+
+## Setting Up the Command Line
+
+https://help.github.com/articles/set-up-git
 
 ## Moving and Renaming Files:
 
